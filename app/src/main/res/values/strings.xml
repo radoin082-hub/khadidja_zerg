@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TimeTable</string>
+    <string name="French">FR</string>
+    <string name="Arabic">AR</string>
+    <string name="Group">Group</string>
+    <string name="Sunday">Sunday</string>
+    <string name="Monday">Monday</string>
+    <string name="Tuesday">Tuesday</string>
+    <string name="Wednesday">Wednesday</string>
+    <string name="Thursday">Thursday</string>
+    <string name="Saturday">Saturday</string>
+    <string name="all_session">All Session</string>
+</resources>

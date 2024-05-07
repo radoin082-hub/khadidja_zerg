@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0251B5</color>
+    <color name="blueBar">#FBD397</color>
+    <color name="header">#1091F8</color>
+    <color name="selected_button">#FF424242</color>
+    <color name="gray">#B3A0A6B3</color>
+
+    <color name="td">#F6CE12</color>
+    <color name="tp">#F87D1E</color>
+    <color name="coure">#FF03DAC5</color>
+    <color name="workShop">#34F109</color>
+
+</resources>
